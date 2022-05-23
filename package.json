@@ -1,0 +1,9 @@
+{
+  "name": "discord-imgs",
+  "version": "1.4.6",
+  "description": "Un paquete de imagenes aleatorias, por ejemplo memes.",
+  "main": "index.js",
+  "author": "Gata",
+  "license": "MIT",
+  "keywords": ["meme", "shitpost", "Discord-meme", "Discord-shitpost", "Bot-discord", "Memes-command", "Fun", "discord.js-meme", "discord-imgs", "Discord-imagenes" ]
+}
