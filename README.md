@@ -5,7 +5,7 @@ Este es un paquete por el cual podrás obtener imágenes de cualquier tipo aleat
 ## Instalacion
 Instala el paquete usando la consola o buscándolo en la selección de paquetes: `discord-imgs`.
 ```
-$ npm i discordimgs
+$ npm i discord-imgs
 ```
 ## Uso:
 ```js

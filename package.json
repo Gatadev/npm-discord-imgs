@@ -1,6 +1,6 @@
 {
   "name": "discord-imgs",
-  "version": "1.4.6",
+  "version": "1.4.7",
   "description": "Un paquete de imagenes aleatorias, por ejemplo memes.",
   "main": "index.js",
   "author": "Gata",
